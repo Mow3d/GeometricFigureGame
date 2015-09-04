@@ -1,0 +1,5 @@
+ofx3DModelLoader
+ofxGui
+ofxThreadedImageLoader
+ofxDrawnetic
+ofxGenerative
